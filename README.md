@@ -3,7 +3,7 @@
   I did hate frontend when I coded the same app with Vue + Vuetify
   But I'm gonna be honest, I'm not feeling like throwing up when using Vue and I will use it from time to time when I'll need it, but not React.
 
-<font size=”3”> P.S I still hate frontend </font>
+*P.S I still hate frontend*
 
 # Getting Started with Create React App
 
