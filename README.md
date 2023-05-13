@@ -1,3 +1,10 @@
+### This app is a clusterf***, I wish you would never see it but here it is
+## This app is nothing but an attempt to try React on TS with ANTD, so far looks like I'll never touch React again in my life
+## I did hate frontend when I coded the same app with Vue + Vuetify
+## But I'm gonna be honest, I'm not feeling like throwing up when using Vue and I will use it from time to time when I'll need it, but not React.
+
+# P.S I still hate frontend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,8 +46,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
