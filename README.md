@@ -1,4 +1,4 @@
-## This app is a clusterf***, I wish you would never see it but here it is
+## This app is a clusterf***, a s**t ton of crutches, I wish you would never see it but here it is
   This app is nothing but an attempt to try React on TS with ANTD, so far looks like I'll never touch React again in my life
   I did hate frontend when I coded the same app with Vue + Vuetify
   But I'm gonna be honest, I'm not feeling like throwing up when using Vue and I will use it from time to time when I'll need it, but not React.
